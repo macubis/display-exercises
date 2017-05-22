@@ -1,0 +1,160 @@
+*{
+	margin: 20px;
+	padding: 0;
+	text-align:left;
+}
+body{
+	margin:0;
+}
+.titulo{
+	padding: 30px;
+	background-color: yellow;
+}
+.medio{
+	padding: 30px;
+	background-color: magenta;
+}
+.final{
+	padding: 30px;
+	background-color: yellow;
+}
+header.titulo2{
+	width: 300px;
+	height: 50px;
+	background-color: yellow;
+	display: block;
+	margin: 0 auto;
+}
+h4{
+	text-align: left;
+	padding: 10px;
+}
+.medio2{
+	width: 300px;
+	height: 50px;
+	background-color: magenta;
+	display: block;
+	margin: 0 auto;
+	border: 0;
+}
+h3{
+	text-align: left;
+	padding: 10px;
+}
+.final2{
+	width: 300px;
+	height: 50px;
+	background-color: magenta;
+	display: block;
+	margin: 0 auto;
+}
+h2{
+	text-align: left;
+	padding: 10px;
+}
+.cuerpo{
+	display: inline-block;
+	width: 1000px;
+	height: 200px;
+	margin:0px;
+	border:0px;
+	padding: 0px;
+}
+.titulo3{
+	width:300px;
+	height: 50px;
+	display: inline-block;
+	margin:0px;
+	background-color: yellow;
+}
+.medio3{
+	width:300px;
+	height: 50px;
+	display: inline-block;
+	margin:0px;
+	background-color: magenta;
+	border:0px;
+}
+.medio3 h3{
+	padding: 0px;
+	border:0px;
+	text-align: center;
+
+}
+.final3{
+	width:300px;
+	height: 50px;
+	display: inline-block;
+	margin:0px;
+	background-color: yellow;
+}
+.cuerpo4{
+	width: 1200px;
+	height: 500px;
+	display: inline-block;
+	padding: 0px;
+	margin: 0px;
+	border:0px;
+	text-align: 0 auto;
+}
+.titulo4{
+	width: 300px;
+	height: 100px;
+	background-color: yellow;
+	display: inline-block;
+	border:0px;
+}
+.medio4{
+	width: 300px;
+	height: 100px;
+	background-color: magenta;
+	display: inline-block;
+	border:0px;
+}
+.final4{
+	width: 300px;
+	height: 100px;
+	background-color: yellow;
+	display: inline-block;
+}
+.primero{
+	width: 50px;
+	height: 50px;
+	background-color: blue;
+	border:2px solid black;
+}
+.trio{
+	width: 400px;
+	height:100px;
+	background-color: pink;
+	margin: 0 0 0 20px;
+	text-align: 0 auto;
+	border: 2px solid magenta;
+}
+.trio .caja{
+	width: 60px;
+	height: 60px;
+	background-color: whitesmoke;
+	display: inline-block;
+	border: 2px solid magenta;
+}
+.duo{
+	width: 300px;
+	height: 100px;
+	margin: 0px;
+}
+.duo .gemelas{
+	margin: 0px:;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	background-color: whitesmoke;
+	border: 2px solid yellow;
+}
+.solita{
+	margin:0 0 0 20PX;
+	width: 50px;
+	height: 50px;
+	background-color: blue;
+	border:2px solid black;
+}
